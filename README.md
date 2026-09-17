@@ -4,20 +4,21 @@ Technical Project Manager at [Navteca](https://github.com/Navteca).
 
 Building applied AI products, cloud systems, and developer tools.
 
-I turn complex technical work into clear plans, aligned teams, and shipped outcomes. My role sits between product goals and engineering execution, with a focus on systems that teams can operate and maintain.
+I lead technical delivery for AI, cloud, and platform initiatives. My work covers discovery, architecture, roadmaps, proofs of concept, engineering execution, cloud deployment, client communication, and production support.
 
-Most of my work lives in Navteca organization repositories. Some of it is private, so this profile describes the work without naming internal projects or client details.
+I stay close to the work. I review architecture, test approaches, examine code and infrastructure, debug problems, and ship changes alongside engineers when that is the fastest way to remove uncertainty or unblock delivery.
 
-## Focus areas
+## How I contribute
 
-- Technical delivery: planning, prioritization, dependencies, risk, and stakeholder alignment
-- Applied AI: conversational systems, document processing, NLP, and AI-assisted workflows
-- Cloud and platforms: AWS, Azure, Kubernetes, Helm, CI/CD, and observability
-- Engineering operations: issues, pull requests, documentation, release planning, and continuous improvement
+- Turn customer needs into product priorities and executable technical plans
+- Shape architecture and test important assumptions before the team commits
+- Manage ownership, dependencies, risk, and delivery evidence
+- Improve development, testing, release, and operational workflows
+- Mentor engineers through design reviews, code reviews, and scoped ownership
 
-I value small, issue-linked pull requests with enough context to review quickly. Documentation is part of delivery, not cleanup for later.
+Most of my work lives in Navteca organization repositories. Some of it is private, so this profile describes my role without exposing internal projects, clients, or implementation details.
 
-Personal work and experiments live at [@frivas](https://github.com/frivas).
+[LinkedIn](https://www.linkedin.com/in/franciscojrivash/) · [Personal GitHub](https://github.com/frivas)
 
 ## Chapa
 
